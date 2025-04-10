@@ -26,13 +26,10 @@ This Python script monitors [Boxcar Apartments](https://boxcar.tarragon.com/floo
    ```
 
 2. Create an env with your credentials:
-   '''bash
    TWILIO_SID=your_account_sid
    TWILIO_AUTH=your_auth_token
    TWILIO_FROM=your_twilio_number
    TWILIO_TO=your_verified_phone_number
-
-   '''
 
 3. Install requirements
    pip install selenium twilio python-dotenv
