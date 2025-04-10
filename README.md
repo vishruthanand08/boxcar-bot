@@ -32,4 +32,6 @@ This Python script monitors [Boxcar Apartments](https://boxcar.tarragon.com/floo
    TWILIO_TO=your_verified_phone_number
 
 3. Install requirements
+   ```bash
    pip install selenium twilio python-dotenv
+   ```
